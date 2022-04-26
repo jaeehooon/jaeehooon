@@ -19,5 +19,6 @@
   -->
 
   [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=mc0926)](https://solved.ac/mc0926)
+  
   머쓱...
 </div>
